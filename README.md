@@ -1,1 +1,1 @@
-# curso-de-intrudu-o-a-python
+# curso de introdução a python
